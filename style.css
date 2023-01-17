@@ -1,0 +1,51 @@
+@font-face {
+    font-family: lobster;
+    src: url(lobster/Lobster-Regular.ttf);
+}
+
+.transfer {
+
+    background-color: pink;
+    color: blue;
+}
+
+.para1 {
+
+    color: hotpink;
+    background-color: powderblue;
+    text-align: center;
+}
+
+.position1 {
+    text-align: center;
+    float: left;
+    width: 33.33%;
+}
+
+.clrfix {
+    clear: left;
+}
+
+.bg {
+    background-color: pink;
+}
+
+.bg2 {
+    background-color: powderblue;
+}
+
+.para2 {
+
+
+    background-color: powderblue;
+    text-align: center;
+}
+
+.Gbg {
+    background-color: palevioletred;
+    font-family: lobster;
+}
+
+.picpos {
+    text-align: center;
+}
